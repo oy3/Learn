@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">New Learn</string>
+    <string name="email_addre">Email Address</string>
+    <string name="password">Password</string>
+    <string name="rtn_user">Returning User?</string>
+    <string name="fgt_pswd">Forgot your password? No sweat, reset it </string>
+    <string name="click_here">here</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign Up Here</string>
+    <string name="dontAcc">Don\'t have an account?</string>
+    <string name="fstTime">First time user? </string>
+    <string name="next">Next</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="vsign_in">Have a verification code?</string>
+    <string name="back_again_to_exit">Tap back again to exit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
